@@ -1,6 +1,6 @@
 print("EduAI Bot Started! (type 'exit' to stop)")
 
-reward = 0
+reward = 1
 
 while True:
     user_input = input("\nYou: ").lower()
